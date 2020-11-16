@@ -1,10 +1,10 @@
 
 
 <?php
-$server = "sql312.epizy.com";
-$username = "epiz_27141858";
-$password = "OGQQopP5T2fBz4";
-$dbname = "epiz_27141858_register";
+$server = "";
+$username = "";
+$password = "";
+$dbname = "";
 $con = mysqli_connect($server, $username, $password, $dbname);
 // Check connection
 if (mysqli_connect_errno())
